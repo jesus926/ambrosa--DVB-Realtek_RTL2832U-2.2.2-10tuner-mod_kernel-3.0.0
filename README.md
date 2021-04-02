@@ -1,0 +1,1 @@
+# ambrosa--DVB-Realtek_RTL2832U-2.2.2-10tuner-mod_kernel-3.0.0
